@@ -70,3 +70,7 @@ print("Hello")
 x <- 4^2
 ```
 
+## TASK LISTS
+
+- [ ] This is an incomplete task
+- [x] This is a complete task
