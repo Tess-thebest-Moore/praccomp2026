@@ -45,3 +45,13 @@ http://brewerlab.net - automatic
 
 ![Mr. Toad](https://www.equipstory.com/wp-content/uploads/2025/01/mr-toad-1-1024x929.jpg)
 *Figure 1: Mr. Toad*
+
+## BACKSLASH ESCAPES
+
+\*Literal asterasks\*
+
+## FENCED CODE BLOCKS
+
+``` 
+echo "Hello"
+```
