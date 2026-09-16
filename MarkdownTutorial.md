@@ -74,3 +74,5 @@ x <- 4^2
 
 - [ ] This is an incomplete task
 - [x] This is a complete task
+- [x] @metnions, #refs, [links](), **formatting**, <del>tags</del>, and ~more formatting~
+- [x] list syntax required (ordered or unordered)
