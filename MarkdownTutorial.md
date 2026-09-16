@@ -76,3 +76,10 @@ x <- 4^2
 - [x] This is a complete task
 - [x] @metnions, #refs, [links](), **formatting**, <del>tags</del>, and ~more formatting~
 - [x] list syntax required (ordered or unordered)
+
+## TABELS
+
+First header | Second header
+-------------|--------------
+Content column 1 row 1 | Content column 2 row 1
+Content column 1 row 2 | Content colum 2 row 2
